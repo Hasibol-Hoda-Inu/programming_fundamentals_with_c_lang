@@ -1,0 +1,7 @@
+intiger = 29
+long long intiger = 1000000
+float = 29.32
+double = 23232332.323232
+F
+string = Enu
+boolean = 1
